@@ -18,8 +18,9 @@ for over two years.  The logic works as such:
 
 Originally, a copy of the invite was saved to each newly provisioned mailbox but
 this proved problematic when the Comms team needed to send out a cancellation.
-With the above workflow, any updates or cancellations to the calendar item
-will be received by all members of your targeted distribution list.
+With the newly devised workflow above, any updates or cancellations to the calendar item
+will be received by all members of your targeted distribution list.  This script
+also detects whether your mailboxes are on-premises or are in Exchange Online.
 
 **Prerequisites:**
 1. A mailbox which contains calendar items sent to your targeted DL
