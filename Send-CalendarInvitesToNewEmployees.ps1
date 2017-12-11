@@ -7,7 +7,7 @@
 #  the CleanGlobalObjectId to the n00bs calendar.
 
 #Revision Aug 3, 2015:  Tom Cheang
-#Reworking script function.  Using Organizer's calendar to send output
+#Reworking script function.  Using Organizer's calendar to send
 #  meeting invitation.  Remove added attendees once invite sent.
 
 
